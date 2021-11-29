@@ -1,0 +1,205 @@
+body{
+    background-color: grey;
+}
+
+
+
+.welcome{
+
+    border: 4px solid red;
+    background-color: white;
+    height: 100px;
+    width: 350px;
+    margin: 5px;
+    margin-left: 450px;
+    padding: 15px;
+    border-radius: 10px;
+    font-size:25px ;
+    font-weight: bold;
+    font-style:oblique;
+    color: rgb(235, 26, 88);
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 35px;
+    box-shadow: 5px 5px rgb(156, 44, 156);
+    text-shadow: 1px 1px 1px red);
+
+}
+
+.services{
+
+    border: 5px solid green;
+    margin: 0px;
+    display:flex;
+    flex-wrap: wrap;
+}
+.address{
+
+    border: 4px solid red;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    font-size:24px ;
+    font-weight: bold;
+    text-align: center;
+    line-height: 35px;
+    box-shadow: 5px 5px rgb(156, 44, 156);
+    text-shadow: 1px 1px 1px rgb(211, 13, 73);
+   
+}
+
+.picture{
+
+    border: 4px solid red;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 800px; 
+    padding: 15px; 
+    border-radius: 10px;
+    box-shadow: 5px 5px rgb(156, 44, 156);
+    margin 
+}
+     
+
+
+img{
+
+    width:200px;
+    height:150px;
+    align:center;
+    border:1px solid black;
+    margin-top: 20px;
+    box-shadow:1px 1px 1px 1px black;
+    
+}
+.offer{
+
+    border: 4px solid red;
+    border-radius: 10px;
+    height: 60px;
+    width: 500px;
+    background-color: rgb(173, 255, 47);
+    margin-left:400px ;
+    margin-top: 250px;
+    font-size:22px ;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    color:red;
+    box-shadow: 5px 5px rgb(156, 44, 156);
+    position: fixed;
+
+}
+
+.visit{
+    border: 4px solid red;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    padding: 15px;
+    border-radius: 10px;
+    font-size:24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 35px;
+    box-shadow: 5px 5px rgb(156, 44, 156);
+    text-shadow: 1px 1px 1px rgb(211, 13, 73);
+    margin-top: 100px;
+    margin-bottom: 30px;
+
+
+
+}
+
+p{
+
+    margin: 0px;
+}
+
+.review{
+    border: 4px solid red;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 800px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    padding: 15px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: 60px;
+    text-align: center;
+    line-height: 35px;
+    box-shadow: 5px 5px rgb(156, 44, 156);
+    text-shadow: 1px 1px 1px rgb(211, 13, 73);
+   
+
+
+}
+
+
+
+.store{
+
+    border: 4px solid rgb(71, 2, 71);
+    background-color: rgb(3, 71, 3);
+    text-align: center;
+    margin: 10px 250px 10px 250px;
+     display: flex; 
+     flex-wrap:wrap ;
+}
+
+.wlcm{
+    
+    height: 50px;
+    width: 600px;
+    margin: 10px 30px 5px 100px;
+    font-size: 25px;
+    font-weight:bold;
+    text-shadow: 1px 1px 1px rgb(211, 13, 73);
+   
+
+
+}
+
+    
+.fruits{
+    
+    height: 250px;
+    width: 400px;
+    margin: 5px ;
+    margin-top: 10px;
+    background-color: #fff566;
+    text-transform: uppercase;
+    font-style: italic;
+    line-height: 35px;
+}
+
+.veggies{
+    height: 250px;
+    width: 400px;
+    margin: 5px ;
+    margin-top: 10px;
+    background-color: #fff566;
+    text-transform: uppercase;
+    font-style: italic;
+    line-height: 35px;
+
+}
+
+.others{
+    height: 250px;
+    width: 820px;
+    margin: 5px ;
+    margin-top: 10px;
+    background-color: #fff566;
+    text-transform: uppercase;
+    font-style: italic;
+    line-height: 35px;
+
+
+
+}
